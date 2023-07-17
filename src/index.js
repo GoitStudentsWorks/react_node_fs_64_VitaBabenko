@@ -15,7 +15,7 @@ import './fonts/Poppins-SemiBold.woff2';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/command_project_frontend_task_pro">
+    <BrowserRouter basename="/react_node_fs_64_VitaBabenko">
       <Provider store={store}>
         <PersistGate loading={null} persistor={persistor}>
           <App />
