@@ -2,7 +2,7 @@
   "name": "command_project_frontend_task_pro",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://VitaBabenko.github.io/command_project_frontend_task_pro/",
+  "homepage": "https://GoitStudentsWorks.github.io/react_node_fs_64_VitaBabenko/",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@emotion/react": "^11.11.1",
